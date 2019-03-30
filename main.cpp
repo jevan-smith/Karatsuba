@@ -9,17 +9,17 @@ using namespace std;
 
 int main() {
 
-    while(true) {
-
         bigInt a, b;
         bigInt result;
-        int option = 0;
         int userInput = 0;
 
         cout << "Please Enter a value for A: ", cin >> userInput, a = userInput;
         cout << "Please Enter a value for B: ", cin >> userInput, b = userInput;
         cin.clear();
         fflush(stdin);
+
+    while(true) {
+        int option = 0;
 
         cout << "===================" << endl;
         cout << "Options: " << endl;
