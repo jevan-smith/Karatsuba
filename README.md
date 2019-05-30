@@ -42,4 +42,4 @@ Options:
 [2] Task 2
 [3] Exit
 Option: 3
-\*
+*\
