@@ -1,14 +1,18 @@
 
-# Authors
+## Authors
 Made by: Jevan, and Juan
 
-# Requirements
+## Project Goals
+1. Implement Karatsuba algorithm to multiply two integers A and B whose values are less than or equal to 1000. 
+2. Implement Exponentiation algorithm to evaluate AB, where A and B are two integers whose values are less than or equal to 1000. The maximum value of AB can be 10001000 which has 3001 digits.
+
+## Requirements
 - Built using C++17
 - type "make" to build file (on linux)
 - after compiling type "./main.out" to run file (on linux)
 - Compiled using MinGW on local machine (Version: w64 6.0)
 
-# Expected Outputs Below
+## Expected Outputs Below
 <pre>
 ===================
 Options:
