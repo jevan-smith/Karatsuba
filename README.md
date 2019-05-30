@@ -13,8 +13,7 @@ Made by: Jevan, and Juan
 - Compiled using MinGW on local machine (Version: w64 6.0)
 
 ## Expected Outputs Below
-<pre>
-===================
+<pre>===================
 Options:
 ===================
 [1] Task 1
