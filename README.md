@@ -1,20 +1,15 @@
-----------------------------------------------------------
+
 # Authors
-----------------------------------------------------------
 Made by: Jevan, and Juan
 
-----------------------------------------------------------
 # Requirements
-----------------------------------------------------------
 - Built using C++17
 - type "make" to build file (on linux)
 - after compiling type "./main.out" to run file (on linux)
 - Compiled using MinGW on local machine (Version: w64 6.0)
 
-----------------------------------------------------------
 # Expected Outputs Below
-----------------------------------------------------------
-<disable>
+
 ===================
 Options:
 ===================
@@ -42,4 +37,4 @@ Options:
 [2] Task 2
 [3] Exit
 Option: 3
-</disable>
+
