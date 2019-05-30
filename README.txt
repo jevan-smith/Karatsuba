@@ -1,18 +1,18 @@
 ----------------------------------------------------------
-.:GROUP MEMBERS:.
+# Authors
 ----------------------------------------------------------
 Made by: Jevan, and Juan
 
 ----------------------------------------------------------
-.:REQUIREMENTS:.
+# Requirements
 ----------------------------------------------------------
-- Built using C++17 (can run on 'blue')
-- type "make" to build file (on blue)
-- after compiling type "./main.out" to run file (on blue)
+- Built using C++17
+- type "make" to build file (on linux)
+- after compiling type "./main.out" to run file (on linux)
 - Compiled using MinGW on local machine (Version: w64 6.0)
 
 ----------------------------------------------------------
-.:EXPECTED OUTPUTS BELOW:.
+# Expected Outputs Below
 ----------------------------------------------------------
 [jsmith@blue project2]$ ./main.out
 Please Enter a value for A: 32
